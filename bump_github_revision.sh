@@ -77,5 +77,8 @@ git tag -a $VERSION -m "$1 release ($VERSION)"
 echo "pushing everying to git repo origin master..."
 git push origin master
 
+# now push the tags
+git push --tags
+
 # all done!
 echo "all done.."
