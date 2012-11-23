@@ -42,7 +42,7 @@ case "$1" in
 'major')
 echo "increment major release number..."
 BUMPED=`expr $MAJOR + 1`
-VERSION="v."$BUMPED"."$MINOR".0"
+VERSION="v."$BUMPED".0.0"
 ;;
 'minor')
 echo "increment minor release number..."
