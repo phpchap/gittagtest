@@ -1,0 +1,11 @@
+commit c9b726cd6822239eaa39836030a3b2ad176b0d9b
+Author: Justen Doherty <phpchap@gmail.com>
+Date:   Fri Nov 23 10:38:05 2012 +0000
+
+    a different option
+
+commit 00d5b1027879f95d52c2d013e77191c88ece81c7
+Author: Justen Doherty <phpchap@gmail.com>
+Date:   Fri Nov 23 10:36:52 2012 +0000
+
+    added new file
